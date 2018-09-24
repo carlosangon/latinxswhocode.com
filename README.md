@@ -40,6 +40,8 @@ Once repo is saved locally run
 
 ```
 yarn install or npm install
+cd to project dir and run yarn start
+
 ```
 
 ## Built With
