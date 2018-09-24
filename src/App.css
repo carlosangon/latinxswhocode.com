@@ -1,0 +1,111 @@
+
+a {
+  color: #2B3137;
+}
+.App-header {
+  height: 450px;
+  margin-top: 50px;
+  color: white;
+}
+.logo_style{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.logo{
+  color: #ffffff;
+  font-size: 20px;
+}
+.searchField{
+  background-color: rgb(31, 35, 40);
+  border-radius: 5px;
+  border: 0;
+  height: 35px;
+  margin-bottom: 20px;
+  padding: 5px;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;
+  color: rgb(91, 113, 124); 
+}
+.tag-links{
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.sub-links p{
+  font-size: 12px;
+  color: #495A63;
+}
+.javascript{
+  color: #FFD600;
+}
+.react{
+  color: #81D8F7;
+}
+.ruby{
+  color: #FF5252;
+}
+.App-title {
+  font-size: 1.5em;
+}
+.App-intro {
+  font-size: 40px;
+  line-height: 1;
+  color: #00E676;
+}
+.hero-type {
+  margin-top: 90px;
+}
+.syntax_style {
+  color: #B0BEC5;
+}
+.dev-style{
+  color: #FFF;
+}
+.header_p{
+  color: #78909C;
+  font-size: 20px
+}
+.tabbed{
+  margin-left: 20px;
+}
+.card-style{
+  margin: 20px;
+}
+.dev-card{
+  min-height: 140px;
+}
+.user-img{
+  background-color: #455A64;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 20px;
+}
+.user-name{
+  color: #ECEFF1;
+  font-size: 20px;
+  line-height: 1;
+}
+.user-location{
+  color: #78909C;
+  font-size: 15px;
+  line-height: 1;
+}
+.user-descriiption{
+  color: #ECEFF1;
+  font-size: 15px;
+  line-height: 1.1;
+}
+.user-keywords{
+  color: #78909C;
+  font-size: 12px;
+  line-height: 1;
+}
+.user-btn{
+  background: #00E676;
+  border-radius: 5px;
+  border: none;
+  height: 30px;
+  width: 40%;
+  margin: 10px;
+}
