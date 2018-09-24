@@ -47,7 +47,7 @@ class LatinxWhoCodeApp extends Component {
                     <span className="syntax_style">{">"}</span>
                   </p>
                   <p className="header_p">
-                    A directory built to network with no boundries.
+                    A directory built to network with no boundaries.
                   </p>
                 </Col>
 
