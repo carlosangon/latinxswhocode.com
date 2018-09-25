@@ -49,10 +49,9 @@ cd to project dir and run yarn start
 ## Built With
 
 * [Firebase](https://firebase.google.com/) - Backend framework used to store and serve data
-* [Moment](https://momentjs.com/) - Used to create a timestamp on posts/lists
 * [React 16.3.1](https://github.com/facebook/react/releases) - Duhh.
 * [Redux](https://redux.js.org/) - Used to manage app's state
-* [React Redux](https://github.com/reduxjs/react-redux) - Framework used to connect Redux
+* [React Redux](https://github.com/reduxjs/react-redux) - Framework used to connect Redux to React
 * [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Used to connect components 
 
 
