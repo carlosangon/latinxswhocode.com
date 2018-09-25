@@ -1,9 +1,9 @@
-
+<img src="http://carlos.angon.me/github/_latinxWhoCode@2x.png" />
 
 # latinxswhocode.com
 latinxswhocode.com is an open source directory of developers.
 
-<img src="http://carlos.angon.me/github/latinxWhoCode@2x.png" />
+
 
 My intentions were to create a place where developers can connect with other developer with similar obstacles and backgrounds.
 
