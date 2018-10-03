@@ -55,6 +55,7 @@ cd to project dir and run yarn start
 * [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Used to connect components 
 
 
-🙌 https://latinxswhocode.com/ 🙌
+
+🙌 https://latinxswhocode.com/ 🙌 https://latinxwhocode.firebaseapp.com/ 🙌
 
 Contact me if you have any questions
