@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { setTextFilter } from "../actions/filters";
 
-class ExpenseListFilters extends Component {
+class DevListFilters extends Component {
   state = {
     calendarFocused: null
   };
@@ -91,4 +91,4 @@ const mapStateToProps = state => {
   };
 };
 
-export default connect(mapStateToProps)(ExpenseListFilters);
+export default connect(mapStateToProps)(DevListFilters);
