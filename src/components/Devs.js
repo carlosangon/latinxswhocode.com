@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux';
 import selectDevs from '../selectors/devs';
-import { Col } from "react-bootstrap";
 import DevCar from "./DevCard";
+import '../App.css';
 
 class Devs extends Component {
   constructor(props) {
@@ -13,7 +13,7 @@ class Devs extends Component {
   }
   render() {
     return (
-      <div>
+      <div className="devs-wrapper">
         <Col md={12} sm={12} xs={12}>
         {
           this.props.devs.length === 0 ? (
@@ -24,8 +24,8 @@ class Devs extends Component {
               })
             )
         }
-        </Col>
-      </div>
+      </Col> 
+    </div>
     );
   }
 }
